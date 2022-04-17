@@ -4,7 +4,7 @@ Hi there, I am Avanish Sanghvi!👋
 - 👯 I’m looking to collaborate on an active role in the Security domain. Cyber, Network & Information Security; interest me!   
 - 🌱 I’m currently learning Hacking (Ethical maybe xD) skills and Penetration Testing!   
 - 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/avanish-sanghvi-8ab276188/" target="blank"><img align="center" src="https://github.com/avanishsanghvi/social-media-icons-for-portfolio/blob/main/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.svg" alt="https://www.linkedin.com/in/avanish-sanghvi-8ab276188/" height="40" width="40" /></a> &nbsp;     <a href="mailto:avanishsanghvi09@gmail.com?"><img align="center" src="https://github.com/avanishsanghvi/social-media-icons-for-portfolio/blob/main/iconfinder_google-gmail_7089163.svg" height="40" width="40" /></a>   
+<a href="https://www.linkedin.com/in/avanishsanghvi/" target="blank"><img align="center" src="https://github.com/avanishsanghvi/social-media-icons-for-portfolio/blob/main/iconfinder_1_Linkedin_unofficial_colored_svg_5296501.svg" alt="https://www.linkedin.com/in/avanish-sanghvi-8ab276188/" height="40" width="40" /></a> &nbsp;     <a href="mailto:avanishsanghvi09@gmail.com?"><img align="center" src="https://github.com/avanishsanghvi/social-media-icons-for-portfolio/blob/main/iconfinder_google-gmail_7089163.svg" height="40" width="40" /></a>   
 </br>
 
 <!--
